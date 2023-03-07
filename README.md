@@ -1,7 +1,14 @@
 # CryptoKittiesNFTDapp
 ----------------------------------------------------------------------------
+# IMPORTANT! PLEASE READ BEFORE USING THIS CODE!
+## This project is build and tested on the ETH testnet running on local testnet node, through it meet the creteria to do so but it was not meant to be use as production code as is.  Therefore severval things that most likely to need more work on such as:  
+## 1) contract seed phrase are not save in the .secret file and are exposed in the truffle-config.js
+## 2) codes have not been tested for vlunability by 3rd parties, and probably need more work in security and vulnerability exploits protections
+## 3) I'm not a designer so I used a lot of pre-made templates for the visuals.
+
+----------------------------------------------------------------------------
 ## The aim of this project is to gain expereience in developing a fullstack Decentralised App (dApp) from scratch, by cloning Cryptokitties and making an NFT marketplace for it.
-## To make the most out of this I've developed most of the code myself, while using as little existing templates and styling library as possible. Then after project is completed I used some pre-frabricated html & css templated to make the website more visibally ecstatic
+## To make the most out of this I've developed most of the code myself, while using as little existing templates and styling library as possible. When project is completed I used some pre-made html & css templates to particition the site and to make it website more visally ecstatic to showcase the final product of what I've made
 ## The ERC contracts are both ERC721 and ERC163 compatiable according to the standards by using the standard IERC (ERC interface).
 
 -------------------------------------------------------------------------- 
