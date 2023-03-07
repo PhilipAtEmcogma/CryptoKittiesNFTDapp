@@ -9,7 +9,7 @@
 ----------------------------------------------------------------------------
 ## The aim of this project is to gain expereience in developing a fullstack Decentralised App (dApp) from scratch, by cloning Cryptokitties and making an NFT marketplace for it.
 ## To make the most out of this I've developed most of the code myself, while using as little existing templates and styling library as possible. When project is completed I used some pre-made html & css templates to particition the site and to make it website more visally ecstatic to showcase the final product of what I've made
-## The ERC contracts are both ERC721 and ERC163 compatiable according to the standards by using the standard IERC (ERC interface).
+## The ERC contracts are both ERC721 and ERC163 compliant, as the contracts is build upon the standard IERC (ERC interface).
 
 -------------------------------------------------------------------------- 
 # This project is divded into several phrases, which are:
@@ -17,7 +17,7 @@
 ## 2. Develop the backend which encludes:
 ###    i) Minting the kitty as NFTs (ERC721)
 ###    ii) Cross breeding between kitties to generate new kittes, i.e. interactions between ERC721s via smart contract
-###    iii) Buying and selling of the said NFT on the ETH network via smart contract (ERC720 compatiable)
+###    iii) Buying and selling of the said NFT on the ETH network via smart contract (ERC720 compliant)
 
 ----------------------------------------------------------------------------
 # I made this crypto-kitties clone project that works on the Ethereum (ETH) network to gain working experience working with:
