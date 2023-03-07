@@ -9,7 +9,7 @@
 ----------------------------------------------------------------------------
 ## The aim of this project is to gain expereience in developing a fullstack Decentralised App (dApp) from scratch, by cloning Cryptokitties and making an NFT marketplace for it.
 ## To make the most out of this I've developed most of the code myself, while using as little existing templates and styling library as possible. When project is completed I used some pre-made html & css templates to particition the site and to make it website more visally ecstatic to showcase the final product of what I've made
-## The ERC contracts are both ERC721 and ERC163 compliant, as the contracts is build upon the standard IERC (ERC interface).
+## The ERC contracts are ERC720, ERC721 and ERC163 compliant, as the contracts is build upon the standard IERC (ERC interface).
 
 -------------------------------------------------------------------------- 
 # This project is divded into several phrases, which are:
